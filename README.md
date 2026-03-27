@@ -21,10 +21,4 @@ Além da análise estatística, o projeto explorou conceitos de modelagem, inclu
 * Detritos_Espaciais_Apresentacao.pdf: Documento completo contendo a pesquisa, gráficos de evolução orbital, detalhamento dos cálculos de inferência e referências bibliográficas.
 
 ## Equipe de Desenvolvimento
-Pesquisa e análise desenvolvidas como projeto acadêmico para a disciplina de Probabilidade e Estatística da UNIFESP:
-* **Natália Vitória Amaral do Val** 
-* Ana Beatriz Passos Cabral 
-* Caio V. Euzébio 
-* Camilla de O. Godoy 
-* Leonardo de C. Carvalho 
-* Lucas Montá de C. Andrade
+Pesquisa e análise desenvolvidas em equipe como projeto acadêmico para a disciplina de Probabilidade e Estatística da UNIFESP.
